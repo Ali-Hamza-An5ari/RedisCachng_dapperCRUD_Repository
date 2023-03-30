@@ -1,0 +1,84 @@
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\appsettings.Development.json
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\appsettings.json
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\RedisChaing_dapperCRUD_Repository.exe
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\RedisChaing_dapperCRUD_Repository.deps.json
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\RedisChaing_dapperCRUD_Repository.runtimeconfig.json
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\RedisChaing_dapperCRUD_Repository.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\RedisChaing_dapperCRUD_Repository.pdb
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Dapper.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.csproj.AssemblyReference.cache
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.AssemblyInfoInputs.cache
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.AssemblyInfo.cs
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.csproj.CoreCompileInputs.cache
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.MvcApplicationPartsAssemblyInfo.cs
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.MvcApplicationPartsAssemblyInfo.cache
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets\msbuild.RedisChaing_dapperCRUD_Repository.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.RedisChaing_dapperCRUD_Repository.props
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RedisChaing_dapperCRUD_Repository.props
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RedisChaing_dapperCRUD_Repository.props
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\scopedcss\bundle\RedisChaing_dapperCRUD_Repository.styles.css
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.csproj.CopyComplete
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\refint\RedisChaing_dapperCRUD_Repository.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.pdb
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.genruntimeconfig.cache
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\ref\RedisChaing_dapperCRUD_Repository.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Redis.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Ali Hamza Ansari\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\StackExchange.Redis.StrongName.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\appsettings.Development.json
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\appsettings.json
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\RedisChaing_dapperCRUD_Repository.exe
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\RedisChaing_dapperCRUD_Repository.deps.json
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\RedisChaing_dapperCRUD_Repository.runtimeconfig.json
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\RedisChaing_dapperCRUD_Repository.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\RedisChaing_dapperCRUD_Repository.pdb
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Dapper.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Redis.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\StackExchange.Redis.StrongName.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.csproj.AssemblyReference.cache
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.AssemblyInfoInputs.cache
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.AssemblyInfo.cs
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.csproj.CoreCompileInputs.cache
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.MvcApplicationPartsAssemblyInfo.cs
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.MvcApplicationPartsAssemblyInfo.cache
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets\msbuild.RedisChaing_dapperCRUD_Repository.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.RedisChaing_dapperCRUD_Repository.props
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RedisChaing_dapperCRUD_Repository.props
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RedisChaing_dapperCRUD_Repository.props
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\scopedcss\bundle\RedisChaing_dapperCRUD_Repository.styles.css
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.csproj.CopyComplete
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\refint\RedisChaing_dapperCRUD_Repository.dll
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.pdb
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\RedisChaing_dapperCRUD_Repository.genruntimeconfig.cache
+D:\Ali Hamza Ansari\Redis Cache\RedisChaing_dapperCRUD_Repository\dapperCRUD\obj\Debug\net6.0\ref\RedisChaing_dapperCRUD_Repository.dll

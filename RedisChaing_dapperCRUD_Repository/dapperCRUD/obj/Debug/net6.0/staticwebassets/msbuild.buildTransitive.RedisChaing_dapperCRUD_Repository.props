@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RedisChaing_dapperCRUD_Repository.props" />
+</Project>
